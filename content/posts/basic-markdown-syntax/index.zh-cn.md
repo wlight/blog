@@ -1,5 +1,4 @@
 ---
-weight: 4
 title: "Markdown 基本语法"
 date: 2019-12-01T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
@@ -14,7 +13,7 @@ resources:
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 
-lightgallery: true
+lightgallery: false
 ---
 
 这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.

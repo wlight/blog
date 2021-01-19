@@ -1,5 +1,4 @@
 ---
-weight: 4
 title: "Basic Markdown Syntax"
 date: 2019-12-01T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
@@ -14,7 +13,7 @@ resources:
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 
-lightgallery: true
+lightgallery: false
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
