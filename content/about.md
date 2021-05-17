@@ -7,6 +7,7 @@ draft: false
 author: ""
 authorLink: ""
 description: ""
+menu: "main"
 
 tags: []
 categories: []
