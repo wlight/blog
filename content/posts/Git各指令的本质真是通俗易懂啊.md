@@ -8,7 +8,7 @@ author: ""
 authorLink: ""
 description: ""
 
-tags: [git github]
+tags: [git,github]
 categories: [git]
 
 hiddenFromHomePage: false
