@@ -8,8 +8,8 @@ author: ""
 authorLink: ""
 description: ""
 
-tags: []
-categories: []
+tags: [java]
+categories: [java]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
